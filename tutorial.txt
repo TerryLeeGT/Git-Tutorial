@@ -1,0 +1,13 @@
+git
+
+git --version
+
+git config --global user.name TerryLeeGT
+
+git config --global user.email TerryLeeGT@gmail.com
+
+cd C:\git_test
+
+git clone https://github.com/TerryLeeGT/Git-Tutorial.git
+
+--local repository // remote repository
